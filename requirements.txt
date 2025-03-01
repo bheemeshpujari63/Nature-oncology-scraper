@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+mysql-connector-python
+configparser
+chromadb
+sentence-transformers
+transformers
+spacy
+pymysql
+torch
